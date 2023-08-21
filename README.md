@@ -4,4 +4,4 @@ This app is based on the Wikipedia API that provides search results. The app ret
 
 The technologies used are: Next js, CSS and [more](https://github.com/AtGbemiga/wikii-search/blob/main/package.json)
 
-* Performance is tied to the Wikipedia API which is limited. Learn more about the API [here](https://www.mediawiki.org/wiki/API:Main_page)
+\* Performance is tied to the Wikipedia API which is limited. Learn more about the API [here](https://www.mediawiki.org/wiki/API:Main_page)
